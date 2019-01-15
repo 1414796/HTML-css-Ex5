@@ -1,0 +1,113 @@
+.container {
+	margin: 0 auto;
+	width: 1024px;
+	height: auto;
+}
+
+.head {
+
+}
+
+.content {
+	width: 1024px;
+	/*background-image: url("pic_content.jpg");*/
+}
+
+.content img {
+	margin-top: -4px;
+}
+
+.content__background {
+	position: relative;
+}
+
+.button {
+  position: absolute;
+  /*background-image: url("pic_button.jpg");*/
+  margin-top: -4845px;
+  margin-left: 64px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.but1 {
+
+}
+
+.but1 img {
+
+}
+.but2 {
+  margin-left: 36px;	
+}
+
+.but3 {
+	margin-top: 256px;
+}
+
+.but4 {
+  margin-left: 35px;
+  margin-top: 256px;
+}
+
+.eightbutton {
+  position: absolute;
+  margin-top: -1265px;
+  margin-left: 65px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.eightbutton-2, 
+.eightbutton-4, 
+.eightbutton-6, 
+.eightbutton-8 {
+	margin-left: 36px;
+}
+
+.eightbutton-3, 
+.eightbutton-4, 
+.eightbutton-5, 
+.eightbutton-6, 
+.eightbutton-7, 
+.eightbutton-8 {
+  margin-top: 256px;
+}
+
+.foot {
+	position: relative;
+  margin-top: -4px;
+}
+
+.foot .one {
+  position: absolute;
+  margin-top: -176px;
+  margin-left: 38px;
+  padding-right: 10px;
+  font-size: 11px;
+  color: #fff;
+}
+
+.foot .two {
+  position: absolute;
+  margin-top: -177px;
+  margin-left: 118px;
+  padding-right: 10px;
+  font-size: 11px;
+  color: #fff;
+}
+
+.foot .three {
+  position: absolute;
+  margin-top: -177px;
+  margin-left: 275px;
+  padding-right: 10px;
+  font-size: 11px;
+  color: #fff;
+}
+
+.foot__back {
+	position: absolute;
+  margin-top: -238px;
+  margin-left: 809px;
+}
