@@ -72,7 +72,6 @@
   margin-left: 38px;
   padding-right: 10px;
   font-size: 11px;
-  color: #fff;
 }
 
 .foot .two {
@@ -81,15 +80,18 @@
   margin-left: 118px;
   padding-right: 10px;
   font-size: 11px;
-  color: #fff;
 }
 
 .foot .three {
   position: absolute;
   margin-top: -177px;
-  margin-left: 275px;
+  margin-left: 279px;
   padding-right: 10px;
-  font-size: 11px;
+  font-size: 10px;
+}
+
+.foot a {
+  text-decoration: none;
   color: #fff;
 }
 
